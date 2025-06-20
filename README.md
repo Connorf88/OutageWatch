@@ -14,11 +14,6 @@ A Flask + Docker + Azure-powered status page and incident tracker for monitoring
 - Azure-ready architecture  
 - Simulated outage testing support  
 
----
-
-## Architecture
-
-![Architecture Diagram](link-to-your-diagram.png)
 
 ---
 
